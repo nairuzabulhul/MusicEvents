@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="nairuz.com.musicevents.ActivityEventDetails">
+    <item android:id="@+id/website_ID"
+          android:title="Go"
+          app:showAsAction="always"/>
+</menu>
